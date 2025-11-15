@@ -269,3 +269,22 @@ flowchart TD
 My work is built on three pillars: backend development, teaching, and educational material creation.
 Rather than just “build and ship,” I aim to “build and grow people” through code and curriculum.
 If any of the repositories or materials catch your eye, feel free to explore them.
+
+
+<picture>
+  <!-- ダークテーマ用 -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yoshiayu/yoshiayu/output/github-contribution-grid-snake.svg"
+  />
+  <!-- ライトテーマ用 -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yoshiayu/yoshiayu/output/github-contribution-grid-snake.svg"
+  />
+  <!-- フォールバック -->
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/yoshiayu/yoshiayu/output/github-contribution-grid-snake.svg"
+  />
+</picture>
