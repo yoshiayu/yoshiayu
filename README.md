@@ -4,6 +4,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats),[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=pie)](https://github.com/anuraghazra/github-readme-stats),![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&stats_format=bytes)
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiayu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiayu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshiayu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshiayu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshiayu&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=yoshiayu&theme=gruvbox)
 
 # yoshiayu
 
@@ -242,11 +251,6 @@ flowchart TD
 | Others (Shell, Dockerfile, YAML, etc.) | ~8            |
 
 トロフィー & コントリビューション / Trophy & Contribution Snake
-
-### 日本語
-# Trophy / 活動メトリクス
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yoshiayu&theme=gruvbox&margin-w=10&margin-h=10)
 
 ---
 
