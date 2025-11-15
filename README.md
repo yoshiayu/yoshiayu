@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=yoshiayu&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats),[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=pie)](https://github.com/anuraghazra/github-readme-stats),![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&stats_format=bytes)
+
+
 # yoshiayu
 
 ## 自己紹介 / About Me
