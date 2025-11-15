@@ -2,7 +2,21 @@
   <img src="https://komarev.com/ghpvc/?username=yoshiayu&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats),[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&layout=pie)](https://github.com/anuraghazra/github-readme-stats),![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&stats_format=bytes)
+# yoshiayu
+## 自己紹介 / About Me
+## Skills
+<img
+  alt="my skills"
+  src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,flask,fastapi,streamlit,java,spring,ruby,rails,html,css,js,ts,vue,react,nodejs,postgresql,mysql,oracle,aws,swift"
+/>
+<br>
+## 日本語  
+ - Java / Python を中心としたバックエンドエンジニア兼プログラミング講師です。
+ - 「現場でそのまま使えるコード」と「教育として機能する教材」の両立をテーマに、専門学校での授業・企業向けツール開発・教材制作を並行して行っています。
+
+## English  
+- I’m a backend engineer and programming instructor focused on Java and Python.
+- My main theme is to bridge **production-ready code** and **educationally effective materials**,working across vocational school teaching, tool development for clients, and curriculum design.
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiayu&theme=gruvbox)
@@ -14,7 +28,6 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=yoshiayu&theme=gruvbox)
 
-# yoshiayu
 <picture>
   <!-- ダークテーマ用 -->
   <source
@@ -32,28 +45,6 @@
     src="https://raw.githubusercontent.com/yoshiayu/yoshiayu/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-## 自己紹介 / About Me
-
-## Skills
-<img
-  alt="my skills"
-  src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,flask,fastapi,streamlit,java,spring,ruby,rails,html,css,js,ts,vue,react,nodejs,postgresql,mysql,oracle,aws,swift"
-/>
-<br>
-
-日本語  
-Java / Python を中心としたバックエンドエンジニア兼プログラミング講師です。  
-「現場でそのまま使えるコード」と「教育として機能する教材」の両立をテーマに、  
-専門学校での授業・企業向けツール開発・教材制作を並行して行っています。
-
-English  
-I’m a backend engineer and programming instructor focused on Java and Python.  
-My main theme is to bridge **production-ready code** and **educationally effective materials**,  
-working across vocational school teaching, tool development for clients, and curriculum design.
-
-
 ---
 
 ## 技術スタック / Tech Stack
