@@ -36,6 +36,13 @@
 
 ## 自己紹介 / About Me
 
+## Skills
+<img
+  alt="my skills"
+  src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,flask,fastapi,streamlit,java,spring,ruby,rails,html,css,js,ts,vue,react,nodejs,postgresql,mysql,oracle,aws,swift"
+/>
+<br>
+
 日本語  
 Java / Python を中心としたバックエンドエンジニア兼プログラミング講師です。  
 「現場でそのまま使えるコード」と「教育として機能する教材」の両立をテーマに、  
