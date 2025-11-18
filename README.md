@@ -45,64 +45,53 @@
     src="https://raw.githubusercontent.com/yoshiayu/yoshiayu/output/github-contribution-grid-snake.svg"
   />
 </picture>
----
+
 
 ## 技術スタック / Tech Stack
 
-日本語  
+### 日本語  
 **Backend**  
 - Java（Spring Boot 3）  
 - Python（Django / FastAPI）
-
 **Frontend**  
 - HTML / CSS / JavaScript  
 - TypeScript  
 - Vue.js / Next.js
-
 **Database**  
 - PostgreSQL / MySQL / SQLite  
-
 **Infrastructure & DevOps**  
 - AWS（EC2, S3, Lambda, DynamoDB, API Gateway, Route53）  
 - Docker / Linux（Amazon Linux, Ubuntu）
-
 **Tools**  
 - Git / GitHub  
 - VS Code / IntelliJ IDEA  
 - Postman / Mermaid / Draw.io  
 
-English  
+### English  
 **Backend**  
 - Java (Spring Boot 3)  
 - Python (Django / FastAPI)
-
 **Frontend**  
 - HTML / CSS / JavaScript  
 - TypeScript  
 - Vue.js / Next.js
-
 **Database**  
 - PostgreSQL / MySQL / SQLite  
-
 **Infrastructure & DevOps**  
 - AWS (EC2, S3, Lambda, DynamoDB, API Gateway, Route53)  
 - Docker / Linux (Amazon Linux, Ubuntu)
-
 **Tools**  
 - Git / GitHub  
 - VS Code / IntelliJ IDEA  
 - Postman / Mermaid / Draw.io  
 
-
----
-
 ## 全体像（Mermaid ダイアグラム） / Overview (Mermaid Diagram)
 
-日本語  
-自分の活動領域をざっくり図にするとこんなイメージです。
+### 日本語  
+#### 自分の活動領域をざっくり図にするとこんなイメージです。
 
-English  
-Here’s a high-level overview of my main activity areas using Mermaid.
+### English  
+#### Here’s a high-level overview of my main activity areas using Mermaid.
 
 ```mermaid
 flowchart LR
