@@ -105,16 +105,11 @@ flowchart LR
 
 ## GitHub Statistics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiayu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiayu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshiayu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshiayu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshiayu&theme=gruvbox&utcOffset=9)
-
-<div align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshiayu&theme=vue-dark&show_icons=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiayu&theme=vue-dark&layout=compact" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiayu&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiayu&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshiayu&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshiayu&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshiayu&theme=gruvbox&utcOffset=9)
 
 ---
 
